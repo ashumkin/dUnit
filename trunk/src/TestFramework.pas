@@ -74,7 +74,9 @@ type
   IStatusListener = interface;
 
   TTestResult   = class;
+{$M+}
   TAbstractTest = class;
+{$M-}
   TTestCase     = class;
   TTestSuite    = class;
   TTestFailure  = class;
