@@ -2,9 +2,9 @@ unit TestedUnitStream;
 
 {
  $Source: /cvsroot/dunit/dunit/Contrib/DUnitWizard/Source/DelphiExperts/DUnitProject/dunit/TestedUnitStream.pas,v $
- $Revision: 1.3 $
- $Date: 2008/04/18 02:32:55 $
- Last amended by $Author: judc $
+ $Revision$
+ $Date$
+ Last amended by $Author$
  $State: Exp $
 
  TestedUnitStream:

@@ -1,7 +1,7 @@
-{ #(@)$Id: GUITesting.pas,v 1.38 2008/04/18 02:33:01 judc Exp $ }
+{ #(@)$Id$ }
 {: DUnit: An XTreme testing framework for Delphi programs.
    @author  The DUnit Group.
-   @version $Revision: 1.38 $ 2001/03/08 uberto
+   @version $Revision$ 2001/03/08 uberto
 }
 (*
  * The contents of this file are subject to the Mozilla Public
@@ -60,7 +60,7 @@ uses
   Classes;
 
 const
-  rcs_id: string = '#(@)$Id: GUITesting.pas,v 1.38 2008/04/18 02:33:01 judc Exp $';
+  rcs_id: string = '#(@)$Id$';
 
 {$IFDEF DUNIT_CLX}
 const

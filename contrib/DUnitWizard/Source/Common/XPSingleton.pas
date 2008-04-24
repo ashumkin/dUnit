@@ -4,9 +4,9 @@ unit XPSingleton;
 
 {
  $Source: /cvsroot/dunit/dunit/Contrib/DUnitWizard/Source/Common/XPSingleton.pas,v $
- $Revision: 1.3 $
- $Date: 2008/04/18 02:32:53 $
- Last amended by $Author: judc $
+ $Revision$
+ $Date$
+ Last amended by $Author$
  $State: Exp $
 
  Implementation of thread-safe singleton as a TObject descendant and

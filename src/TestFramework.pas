@@ -1,4 +1,4 @@
-{#(@)$Id: TestFramework.pas,v 1.119 2008/04/18 02:33:02 judc Exp $ }
+{#(@)$Id$ }
 {  DUnit: An XTreme testing framework for Delphi programs. }
 (*
  * The contents of this file are subject to the Mozilla Public
@@ -48,8 +48,8 @@ uses
   IniFiles;
 
 const
-  rcs_id: string = '#(@)$Id: TestFramework.pas,v 1.119 2008/04/18 02:33:02 judc Exp $';
-  rcs_version : string = '$Revision: 1.119 $';
+  rcs_id: string = '#(@)$Id$';
+  rcs_version : string = '$Revision$';
 
 type
 {$IFDEF CLR}

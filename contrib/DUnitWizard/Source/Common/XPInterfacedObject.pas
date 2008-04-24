@@ -2,9 +2,9 @@ unit XPInterfacedObject;
 
 {
  $Source: /cvsroot/dunit/dunit/Contrib/DUnitWizard/Source/Common/XPInterfacedObject.pas,v $
- $Revision: 1.4 $
- $Date: 2008/04/18 02:32:53 $
- Last amended by $Author: judc $
+ $Revision$
+ $Date$
+ Last amended by $Author$
  $State: Exp $
 
  TXPInterfacedObject is a utility base class which implements the base

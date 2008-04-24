@@ -1,7 +1,7 @@
-{ $Id: TestExtensions.pas,v 1.44 2008/04/18 02:33:02 judc Exp $ }
+{ $Id$ }
 {: DUnit: An XTreme testing framework for Delphi programs.
    @author  The DUnit Group.
-   @version $Revision: 1.44 $
+   @version $Revision$
 }
 (*
  * The contents of this file are subject to the Mozilla Public

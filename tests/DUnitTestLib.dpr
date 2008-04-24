@@ -1,7 +1,7 @@
-{ $Id: DUnitTestLib.dpr,v 1.8 2008/04/18 02:33:03 judc Exp $ }
+{ $Id$ }
 {: DUnit: An XTreme testing framework for Delphi programs.
    @author  The DUnit Group.
-   @version $Revision: 1.8 $
+   @version $Revision$
 }
 (*
  * The contents of this file are subject to the Mozilla Public

@@ -1,7 +1,7 @@
-{ #(@)$Id: UnitTestGUITesting.pas,v 1.52 2008/04/18 02:33:03 judc Exp $ }
+{ #(@)$Id$ }
 {: DUnit: An XTreme testing framework for Delphi programs.
    @author  The DUnit Group.
-   @version $Revision: 1.52 $ uberto 08/03/2001
+   @version $Revision$ uberto 08/03/2001
 }
 (*
  * The contents of this file are subject to the Mozilla Public
@@ -53,7 +53,7 @@ uses
   Classes {Variants,};
 
 const
-  rcs_id: string = '#(@)$Id: UnitTestGUITesting.pas,v 1.52 2008/04/18 02:33:03 judc Exp $';
+  rcs_id: string = '#(@)$Id$';
 
 type
   TDunitDialogCracker = class(TGUITestRunner);

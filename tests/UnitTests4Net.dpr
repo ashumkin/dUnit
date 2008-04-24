@@ -1,4 +1,4 @@
-{#(@)$Id: UnitTests4Net.dpr,v 1.5 2008/04/18 02:33:03 judc Exp $ }
+{#(@)$Id$ }
 {  DUnit: An XTreme testing framework for Delphi programs. }
 (*
  * The contents of this file are subject to the Mozilla Public
